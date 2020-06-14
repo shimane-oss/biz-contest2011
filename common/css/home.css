@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* ホーム */
+/* 2010-10-03T14:46:11+09:00 */
+
+body.home{
+	padding-top: 15px;
+}
+
+body.home h1.logo{
+	margin-bottom: 15px;
+}
+
+body.home div.mainpic{
+	margin-bottom: 20px;
+}
+
+body.home div.deadline{
+	margin-top: 20px;
+	margin-bottom: 0;
+}
